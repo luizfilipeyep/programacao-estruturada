@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luiz Felipe\\Documents\\dev\\programacao-estruturada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{961D6A15-5B5F-4EB6-B840-7BF4F66033A5}|programa\u00E7\u00E3o_estruturada\\programa\u00E7\u00E3o_estruturada.vcxproj|C:\\Users\\Luiz Felipe\\Documents\\dev\\programacao-estruturada\\programa\u00E7\u00E3o_estruturada\\aula1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{961D6A15-5B5F-4EB6-B840-7BF4F66033A5}|programa\u00E7\u00E3o_estruturada\\programa\u00E7\u00E3o_estruturada.vcxproj|solutionrelative:programa\u00E7\u00E3o_estruturada\\aula1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aula1.cpp",
+              "DocumentMoniker": "C:\\Users\\Luiz Felipe\\Documents\\dev\\programacao-estruturada\\programa\u00E7\u00E3o_estruturada\\aula1.cpp",
+              "RelativeDocumentMoniker": "programa\u00E7\u00E3o_estruturada\\aula1.cpp",
+              "ToolTip": "C:\\Users\\Luiz Felipe\\Documents\\dev\\programacao-estruturada\\programa\u00E7\u00E3o_estruturada\\aula1.cpp",
+              "RelativeToolTip": "programa\u00E7\u00E3o_estruturada\\aula1.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-19T23:46:09.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
